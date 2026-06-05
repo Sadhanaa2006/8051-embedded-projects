@@ -57,6 +57,6 @@ Sensor-based system controlling motor direction for automatic door open/close au
 -> Real-time simulation using Proteus  
 
 
-👩‍💻 **Author**
-Sadhanaa2006 
+👩‍💻 **Author** <br>
+Sadhanaa2006 <br> 
 Embedded Systems Enthusiast
