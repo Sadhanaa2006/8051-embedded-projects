@@ -7,6 +7,7 @@ Welcome to my Embedded Systems portfolio showcasing multiple 8051 microcontrolle
 I am interested in embedded systems, microcontroller programming, and hardware interfacing.
 
 This portfolio demonstrates my understanding of:
+
 -> 8051 microcontroller architecture  
 -> Embedded C programming  
 -> Hardware interfacing concepts  
